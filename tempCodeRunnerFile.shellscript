@@ -1,0 +1,7 @@
+mkdir oto_ai_backend
+cd oto_ai_backend
+python -m venv venv
+# Windows için: venv\Scripts\activate
+# Mac/Linux için: source venv/bin/activate
+
+pip install fastapi uvicorn pydantic openai google-genai pillow python-dotenv

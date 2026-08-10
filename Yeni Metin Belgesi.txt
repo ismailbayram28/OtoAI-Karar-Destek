@@ -1,0 +1,5 @@
+GÖRSEL ANALİZDE HATA ALIYORSAN 
+
+çift API Key kontrolü, st.stop() ve Regex ile esnek JSON ayıklama YAPMALISIN 
+
+
